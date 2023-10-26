@@ -66,8 +66,8 @@ AUTHORS: Optional[List[str]] = [
 AUTHORS_CONTACTS: Optional[List[str]] = ["sudars@edi.lv"]
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = [
-    "Institute of Electronics and Computer Science",  
-    "Latvia University of Life Sciences and Technologies, Latvia"
+    "Institute of Electronics and Computer Science, Latvia",  
+    "Latvia University of Life Sciences and Technologies"
 ]
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = [
     "http://www.edi.lv/",
