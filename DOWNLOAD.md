@@ -1,6 +1,6 @@
 Dataset **Dataset of Annotated Food Crops and Weed Images** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/pqgo9rtza830gu4ofr73x/dataset-of-annotated-food-crops-and-weed-images-DatasetNinja.tar?rlkey=cludxa2z546dvwjec7rxyovo3&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzI4NTdfRGF0YXNldCBvZiBBbm5vdGF0ZWQgRm9vZCBDcm9wcyBhbmQgV2VlZCBJbWFnZXMvZGF0YXNldC1vZi1hbm5vdGF0ZWQtZm9vZC1jcm9wcy1hbmQtd2VlZC1pbWFnZXMtRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAieWNablhJNjBkWms1VnFzd3lpRHNCNWNPM3pIandaK3lud1RRbnlJbm13MD0ifQ==)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
